@@ -1,0 +1,19 @@
+{
+    "abbrev": "",
+    "description": [
+        ""
+    ],
+    "formatVersion": 2,
+    "menu": "",
+    "name": "Multilist",
+    "shortcut": "",
+    "tag": [
+        "\\begin{multicols}{2}",
+        "\\begin{alist}",
+        "\\item %<content%>",
+        "\\end{alist}",
+        "\\end{multicols}"
+    ],
+    "trigger": "",
+    "type": "Snippet"
+}
